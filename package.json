@@ -1,0 +1,28 @@
+{
+
+  "name": "aqla ex 1",
+
+  "version": "0.0.1",
+
+  "description": "server relay test",
+
+  "main": "apk.js",
+
+  "dependencies": {
+   "discord.js":"11.3.2"
+  },
+
+  "engine": {
+
+    "node": "*",
+
+    "npm": "*"
+
+  },
+
+  "scripts": {
+
+    "start": "node apk.js"
+
+    
+  },
